@@ -169,12 +169,12 @@ SOFTWARE.
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-
 ## Version
 
 Current version: 0.1
 
 ## 🙏 Acknowledgements
+
 Created to support lightweight interprocess communication in modular Tcl projects.
 
 ## ☕ Support my work
